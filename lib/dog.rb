@@ -1,5 +1,5 @@
 class Dog 
- attr_accesors :name
+ attr_accesor :name
 end
 
 lassie = Dog.new 
